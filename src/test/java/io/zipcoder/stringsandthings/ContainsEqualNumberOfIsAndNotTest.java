@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * @author leon on 29/01/2019.
+ * @author YangSHU on 12/02/2019.
  */
 public class ContainsEqualNumberOfIsAndNotTest {
 
